@@ -4,7 +4,7 @@ simplejson
 cef
 unittest2
 WebTest
-WSGIProxy
+WSGIProxy2>=0.3
 pyramid_hawkauth
 tokenlib
 hawkauthlib
